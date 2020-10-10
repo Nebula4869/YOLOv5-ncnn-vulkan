@@ -1,0 +1,3 @@
+/home/nebula/YOLOv5ncnn-vulkan/build/CMakeFiles/rebuild_cache.dir
+/home/nebula/YOLOv5ncnn-vulkan/build/CMakeFiles/YOLOv5ncnn-vulkan.dir
+/home/nebula/YOLOv5ncnn-vulkan/build/CMakeFiles/edit_cache.dir

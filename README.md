@@ -94,7 +94,7 @@ The executable file onnx2ncnn and the files in the lib and include directories c
 
    ```shell
    export VULKAN_SDK=~/vulkan-sdk-1.2.148.0/x86_64
-   export PATH=$PATH:$VULKAN_SDK/bin:
+   export PATH=$PATH:$VULKAN_SDK/bin
    export LIBRARY_PATH=$LIBRARY_PATH$:VULKAN_SDK/lib
    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$VULKAN_SDK/lib
    export VK_LAYER_PATH=$VULKAN_SDK/etc/vulkan/explicit_layer.d

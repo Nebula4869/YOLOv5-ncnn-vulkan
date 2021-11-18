@@ -1,4 +1,4 @@
-# YOLOv5 ncnn-vulkan
+# YOLOv5-ncnn-vulkan
 An ncnn-vulkan implementation of YOLOv5, capable of using GPU to accelerate inference
 
 ### Environment
